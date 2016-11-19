@@ -1,0 +1,5 @@
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.DomainModel\bin\Debug\MyFirstApp.API.DomainModel.dll
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.DomainModel\bin\Debug\MyFirstApp.API.DomainModel.pdb
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.DomainModel\obj\Debug\MyFirstApp.API.DomainModel.dll
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.DomainModel\obj\Debug\MyFirstApp.API.DomainModel.pdb
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.DomainModel\obj\Debug\MyFirstApp.API.DomainModel.csprojResolveAssemblyReference.cache

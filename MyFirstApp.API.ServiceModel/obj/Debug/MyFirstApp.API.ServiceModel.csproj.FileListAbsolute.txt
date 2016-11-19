@@ -1,0 +1,16 @@
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\MyFirstApp.API.ServiceModel.dll
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\MyFirstApp.API.ServiceModel.pdb
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\AutoMapper.dll
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\ServiceStack.Client.dll
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\ServiceStack.Common.dll
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\ServiceStack.dll
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\ServiceStack.Text.dll
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\AutoMapper.xml
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\ServiceStack.xml
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\ServiceStack.Client.xml
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\ServiceStack.Common.xml
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\bin\Debug\ServiceStack.Text.xml
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\obj\Debug\MyFirstApp.API.ServiceModel.dll
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\obj\Debug\MyFirstApp.API.ServiceModel.pdb
+C:\Users\JaminTc\Desktop\MyFirstAppApi\MyFirstAppAPI\MyFirstApp.API.ServiceModel\obj\Debug\MyFirstApp.API.ServiceModel.csprojResolveAssemblyReference.cache
